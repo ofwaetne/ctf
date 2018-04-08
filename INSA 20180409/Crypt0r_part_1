@@ -1,0 +1,19 @@
+由題目所給的pcap檔用TCP順序解析後得到以下文字
+
+Selyo0e toegba mpsb pcf lgv ngo dvsb*f mvffl. Lgv spccgo faselyo lgve fpop ausayo jd lgv ypl qa $500. #TIGRQAOIAQGCAL pcf J rjxx njha lgv mpsb lgve fpop.
+
+Dgxxgr oiata jctoevsojgct:
+- Jctopxx oia oge megrtae, pcf ng og gve yplqaco yxpodgeq: iooy://bu4ifi2zg5etosvk.gcjgc (YSJ-FTT pyyeghaf gds meg).
+- Acoae lgve yaetgcpx bal: JCTP{mW9CLVlPjpUtbZFdccPioVV01jdaUeGv}
+
+Oipcbt dge vtjcn ql epctgqrpea.
+
+Rjoi xgha,
+Selyo0qpc
+
+認為極有可能是替換加密
+但是由於不知道加密規則，所以一行一行去踹
+
+最後得到規則  J=I C=N T=S P=A i=h o=t y=p g=o S=C e=r l=y v=u d=f q=m f=d m=b r=w a=e x=l n=g h=v b=k u=x w=q z=z k=j
+
+拿回去得到 INSA{bQ9NYUyAiaXskZDfnnAhtUU01ifeXrOu}  

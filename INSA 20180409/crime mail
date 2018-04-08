@@ -1,0 +1,5 @@
+由題目所給的網頁進去以後有一個登入網頁，先嘗試用sqlmap 去做sqlinjection 
+但是後來發現沒辦法，之後看到了下面有一行LostPassword? 點進去發現又有一個輸入
+再用sqlmap去做做看，然後就進去了。將其DB給dump出來後得到md5的hash 跟 salt
+f2b31b3a7a7c41093321d0c98c37f5ad:yhbG
+用hashcat 跑完後發現他密碼是pizza  然後燈進去以後就得到flag
